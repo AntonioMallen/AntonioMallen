@@ -2,5 +2,6 @@
 
 My name is Antonio Mallen
 
-I am a student of I.E.S Pablo Serrano on Zaragoza
+### 🏤 I studied on the I.E.S Pablo Serrano 
 
+### I am a Software Developer that likes Java, Angular, Python, SQL, C#, Typescript.
