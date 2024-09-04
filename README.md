@@ -1,7 +1,16 @@
-### Hi
+# ¡Hola! 👋 Soy Antonio Mallén Gimeno
 
-My name is Antonio Mallen
+## Desarrollador de Software en .NET
 
-### 🏤 I studied on the I.E.S Pablo Serrano 
+Estudié Desarrollo de Aplicaciones Web y Multiplataforma, y tengo casi 2 años de experiencia como programador. Actualmente, trabajo en [LTC Informáticos](https://ltcinformaticos.com) donde me especializo en el desarrollo Backend con .NET y Visual Basic.
 
-### I am a Software Developer that likes Java, Angular, Python, SQL, C#, Typescript.
+## Sobre mí
+
+Desde pequeño, siempre me ha apasionado la tecnología. Pasaba horas probando aplicaciones y explorando todo tipo de software en mi ordenador, lo que despertó mi interés por la programación.
+
+Me encanta trabajar con datos y diseñar arquitecturas de software que separan claramente las capas. Disfruto especialmente del desarrollo Backend, donde puedo aplicar mis conocimientos en .NET y Java.
+
+## Contacto
+
+- 📧 Email: antoniomallen1@gmail.com
+- 💼 LinkedIn: [www.linkedin.com/in/anmallen](https://www.linkedin.com/in/anmallen)
