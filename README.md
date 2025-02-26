@@ -2,7 +2,7 @@
 
 ## Desarrollador de Software en .NET
 
-Estudié Desarrollo de Aplicaciones Web y Multiplataforma, y tengo casi 2 años de experiencia como programador. Actualmente, trabajo en [LTC Informáticos](https://ltcinformaticos.com) donde me especializo en el desarrollo Backend con .NET y Visual Basic.
+Estudié Desarrollo de Aplicaciones Web y Multiplataforma, y tengo casi 2 años de experiencia como programador. Actualmente, trabajaba en [LTC Informáticos](https://ltcinformaticos.com) pero ahora me encuentro trabajando para [The BigTech](https://www.thebigtech.es) donde me especializo en el desarrollo Backend con .NET y herramientas varias de este entorno como Razor, Rotativa...
 
 ## Sobre mí
 
